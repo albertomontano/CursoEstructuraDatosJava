@@ -5,7 +5,7 @@ public class EjercicioRecursividad2 {
 
         EjercicioRecursividad2 ejercicioRecursividad2 = new EjercicioRecursividad2();
 
-        ejercicioRecursividad2.imprimirValor(6);
+        ejercicioRecursividad2.imprimirValor(8);
 
     }
 
@@ -16,7 +16,7 @@ public class EjercicioRecursividad2 {
         } else {
             System.out.println(x);
             imprimirValor(x-1);
-            
+
         }
     }
 }
