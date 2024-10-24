@@ -2,7 +2,7 @@ package recursividad;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        int n = 5; // Cambia este valor para obtener otro número en la serie
+        int n = 4; // Cambia este valor para obtener otro número en la serie
         System.out.println("El " + n + "º número de Fibonacci es: " + fibonacciRecursivo(n));
     }
 
